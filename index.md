@@ -1,6 +1,8 @@
 # Shrimp Gang No Limp Gang
 welcome to the shrimp gang. feel free to read a little bit about us here and get back to playing the alpha.
 
+![shrmip gang no limp gang](asdf.jpg)
+
 # Join discord here: https://discord.gg/BjcWRzB
 
 ## Current Area of Interest: Brightwood
