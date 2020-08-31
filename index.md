@@ -5,7 +5,7 @@ welcome to the shrimp gang. feel free to read a little bit about us here and get
 
 # Join discord here: https://discord.gg/BjcWRzB
 
-## Current Area of Interest: Brightwood
+## Current Area of Interest: Weavers Fen
 the area of interest is where you should be running your faction pvp missions in a group so that we can start taking control of that area.
 
 ## How does Shrimp Gang work?
