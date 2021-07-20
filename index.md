@@ -1,11 +1,13 @@
 # Shrimp Gang No Limp Gang
-welcome to the shrimp gang. feel free to read a little bit about us here and get back to playing the alpha.
+welcome to the shrimp gang. feel free to read a little bit about us here and get back to playing the beta.
+
+## Server: Olympus - NA East
 
 ![shrmip gang no limp gang](asdf.jpg)
 
 # Join discord here: https://discord.gg/vVNPAsc
 
-## Current Area of Interest: Weavers Fen
+## Current Area of Interest: Everfall
 the area of interest is where you should be running your faction pvp missions in a group so that we can start taking control of that area.
 
 ## How does Shrimp Gang work?
