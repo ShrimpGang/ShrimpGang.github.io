@@ -1,5 +1,7 @@
 # Shrimp Gang No Limp Gang
-Welcome to the Shrimp Gang. Read through this then go back to playing the beta!
+Welcome to the Shrimp Gang. Please join the Discord then get back to playing the beta!
+
+![shrmip gang no limp gang](asdf.jpg)
 
 ## Server: Olympus - NA East
 ### Governor **Slobby**
@@ -8,8 +10,6 @@ Welcome to the Shrimp Gang. Read through this then go back to playing the beta!
 - **Motie**
 - **Mr.Magic**
 - **Caprese**
-
-![shrmip gang no limp gang](asdf.jpg)
 
 # Join discord [HERE](https://discord.gg/vVNPAsc)
 
